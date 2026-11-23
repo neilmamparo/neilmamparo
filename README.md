@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Neil 👋
 
 I'm a Computer Science student and aspiring software engineer interested in building practical software, understanding how systems work under the hood, and continuously improving my problem-solving skills.
